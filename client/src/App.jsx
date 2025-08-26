@@ -1,7 +1,6 @@
 import React from 'react'
 import {Routes,Route} from 'react-router-dom'
 import EmailVerify from './pages/EmailVerify'
-
 import ResetPassword from './pages/ResetPassword'
 import Login from './pages/login'
 import Home from './pages/home'
